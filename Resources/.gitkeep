@@ -1,0 +1,3 @@
+# Coloque aqui o arquivo dollar.ico para o ícone do executável.
+# Qualquer .ico 256x256 renomeado para dollar.ico funciona.
+# Se não houver ícone, remova a linha <ApplicationIcon> do .csproj.
